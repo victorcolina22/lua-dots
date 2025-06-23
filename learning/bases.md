@@ -1,7 +1,3 @@
-## CodeCompanion (Ollama)
-
-¡Por supuesto! Lua es un lenguaje bastante minimalista y fácil de aprender. Vamos a empezar por las básicas.
-
 ### Instalación de Lua
 
 Más o menos en cualquier sistema moderno encontrarás Lua instalado por defecto. Puedes verificarlo ejecutando:
